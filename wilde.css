@@ -1,0 +1,33 @@
+speech {
+  font-size: 12em;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: black;
+}
+
+stage-direction.hover {
+  font-size: 12em;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: black;
+  background-color: lightgoldenrodyellow;
+}
+
+name {
+  font-size: 12em;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: black;
+}
+.vera {
+  color: blueviolet;
+}
+.colonel {
+  color: green;
+}
+.peter {
+  color: blue;
+}
+.mich {
+  color: yellow;
+}
