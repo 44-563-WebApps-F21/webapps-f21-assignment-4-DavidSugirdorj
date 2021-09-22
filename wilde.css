@@ -18,17 +18,17 @@
   font-weight: bold;
   color: black;
 }
-.name:hover{
+.name:hover {
   background-color: lightpink;
-    width: fit-content;
-    height: fit-content;
-    filter: blur(0.08em);
+  width: fit-content;
+  height: fit-content;
+  filter: blur(0.08em);
 }
-.stage-direction:hover{
-    background-color: lightgoldenrodyellow;
-    color: gray;
-    width: fit-content;
-    height: fit-content;
+.stage-direction:hover {
+  background-color: lightgoldenrodyellow;
+  color: gray;
+  width: fit-content;
+  height: fit-content;
 }
 .vera {
   color: blueviolet;
@@ -40,7 +40,9 @@
   color: rgb(199, 135, 15);
 }
 
-table, th, tr{
+table,
+th,
+tr {
   border: 0.1em solid black;
   border-spacing: 0.1em;
   text-align: center;
@@ -50,36 +52,36 @@ table, th, tr{
   width: fit-content;
   height: fit-content;
 }
-.table-content-title{
+.table-content-title {
   font-size: 2em;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   color: black;
   margin-left: 2em;
   margin-right: 2em;
 }
-.table-content-stuff{
+.table-content-stuff {
   font-size: 1.5em;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   color: rgb(70, 62, 62);
   margin-left: 2em;
   margin-right: 2em;
 }
 
-#footer{
+#footer {
   text-align: center;
   font-size: 3em;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
 }
-.home{
+.home {
   text-align: center;
   margin-top: auto;
   margin-bottom: auto;
   margin-left: auto;
   margin-right: auto;
   font-size: 5em;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
 }
