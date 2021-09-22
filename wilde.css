@@ -1,33 +1,33 @@
-speech {
-  font-size: 12em;
+.speech {
+  font-size: 1em;
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   color: black;
 }
 
-stage-direction.hover {
-  font-size: 12em;
+.stage-direction {
+  font-size: 1.1em;
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   color: black;
-  background-color: lightgoldenrodyellow;
 }
 
-name {
-  font-size: 12em;
+.name {
+  font-size: 1.2em;
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   color: black;
+}
+.hover{
+    background-color: lightgoldenrodyellow;
+    color: gray;
 }
 .vera {
   color: blueviolet;
 }
-.colonel {
+.peter {
   color: green;
 }
-.peter {
-  color: blue;
-}
 .mich {
-  color: yellow;
+  color: rgb(199, 135, 15);
 }
