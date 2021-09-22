@@ -18,9 +18,17 @@
   font-weight: bold;
   color: black;
 }
-.hover{
+.name:hover{
+  background-color: lightpink;
+    width: fit-content;
+    height: fit-content;
+    filter: blur(0.08em);
+}
+.stage-direction:hover{
     background-color: lightgoldenrodyellow;
     color: gray;
+    width: fit-content;
+    height: fit-content;
 }
 .vera {
   color: blueviolet;
