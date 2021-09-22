@@ -31,3 +31,30 @@
 .mich {
   color: rgb(199, 135, 15);
 }
+
+table, th, tr{
+  border: 0.1em solid black;
+  border-spacing: 0.1em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  width: fit-content;
+  height: fit-content;
+}
+.table-content-title{
+  font-size: 2em;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: black;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.table-content-stuff{
+  font-size: 1.5em;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: rgb(70, 62, 62);
+  margin-left: 2em;
+  margin-right: 2em;
+}
