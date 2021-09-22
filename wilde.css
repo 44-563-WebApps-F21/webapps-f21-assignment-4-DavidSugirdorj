@@ -58,3 +58,10 @@ table, th, tr{
   margin-left: 2em;
   margin-right: 2em;
 }
+
+#footer{
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
